@@ -1,2 +1,6 @@
-# grade-6-science-fair
-This repository has a details of the grade 6 science fair
+# Introduction
+In Dickerson Middle School I participated in Science Fair. 
+
+## Problem Statement
+What problem are you going to solve
+Blah blah blah

@@ -1,8 +1,11 @@
 # Introduction
-    Sources of energy that are not renewable, sources of energy that create a lot of pollution in the environment, and renewable sources of energy that are not reliable in different weather conditions, the are the common problems with different types of energy sources in the world. During the 2024-2025 school year, I participated in the science fair at Dickerson Middle School. I was thought of creating a solution to a common problem in the world, and I thought of combining the two common sources of renewable energy, so that I could solve the issues that various sources of energy have. 
+Sources of energy that are not renewable, sources of energy that create a lot of pollution in the environment, and renewable sources of energy that are not reliable in different weather conditions, the are the common problems with different types of energy sources in the world. During the 2024-2025 school year, I participated in the science fair at Dickerson Middle School. I was thought of creating a solution to a common problem in the world, and I thought of combining the two common sources of renewable energy, so that I could solve the issues that various sources of energy have. 
+
 ## Problem and Solution
-    Most sources of energy ar either not renewable, cause pollution, or are not reliable in multiple weather condition. I created a small scaled prototype that was built using DIY science toys. I created the combination of wind power and solar energy. In the prototype I used the toy solar panels and combined it with the toy wind-mill using wires and extenders.
+Most sources of energy ar either not renewable, cause pollution, or are not reliable in multiple weather condition. I created a small scaled prototype that was built using DIY science toys. I created the combination of wind power and solar energy. In the prototype I used the toy solar panels and combined it with the toy wind-mill using wires and extenders.
+
 ## Materials
-    I used small solar panels and a windmill from a DIY science toy kit, batteries, wires, extenders, and a light bulb. To test out everything, I used a voltage meter.
+I used small solar panels and a windmill from a DIY science toy kit, batteries, wires, extenders, and a light bulb. To test out everything, I used a voltage meter.
+
 ## Steps    
-    This is the summary of each step. Initially, I connected the windmill with the solar panel using wires and extenders, for they were seperate pieces. Next, I connected everything to a battery that was powering the device. Then, I connected the light bulb to the setup. At last, I tested the voltage and the power using a voltage meter.
+This is the summary of each step. Initially, I connected the windmill with the solar panel using wires and extenders, for they were seperate pieces. Next, I connected everything to a battery that was powering the device. Then, I connected the light bulb to the setup. At last, I tested the voltage and the power using a voltage meter.

@@ -9,3 +9,14 @@ I used small solar panels and a windmill from a DIY science toy kit, batteries, 
 
 ## Steps    
 This is the summary of each step. Initially, I connected the windmill with the solar panel using wires and extenders, for they were seperate pieces. Next, I connected everything to a battery that was powering the device. Then, I connected the light bulb to the setup. At last, I tested the voltage and the power using a voltage meter.
+
+
+## Images
+
+<img src="photos/Image 1.jpeg" width="500">
+
+<img src="photos/Image 2.jpeg" width="500">
+
+<img src="photos/Image 3.jpeg" width="250">
+
+<img src="photos/Image 4.jpeg" width="250">
